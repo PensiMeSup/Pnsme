@@ -1,0 +1,6 @@
+@Swiftness.Mock.API_HostAddress = http://localhost:5106
+
+GET {{Swiftness.Mock.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

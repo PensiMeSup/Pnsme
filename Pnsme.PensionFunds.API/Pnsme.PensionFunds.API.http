@@ -1,0 +1,6 @@
+@Pnsme.PensionFunds.API_HostAddress = http://localhost:5201
+
+GET {{Pnsme.PensionFunds.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
