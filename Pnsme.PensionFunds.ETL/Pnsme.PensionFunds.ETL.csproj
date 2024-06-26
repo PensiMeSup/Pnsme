@@ -4,7 +4,6 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>dotnet-Pnsme.PensionFunds.ETL-78c5b9c6-bfd1-440a-a0b7-35ab3e9a15ab</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
